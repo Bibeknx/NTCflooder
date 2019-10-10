@@ -7,4 +7,4 @@ pip install -r requirements.txt <br>
 Usage:<br>
 python ntcflooder.py
 
-Note:Once the script has been executed it takes some time to send SMSs depending upon the number of SMS sent.
+Note:Once the script has been executed it takes some time to send SMS depending upon the number of your SMS sent.
